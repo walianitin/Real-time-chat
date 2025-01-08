@@ -2,7 +2,6 @@
 
 
 Build a simple chat applications using raw websockets in Node.js that supports the following features -
-
 Allow an admin to create a new chat session/room. Admin should be allowed to set the following properties on the room -
 Name
 start_time
